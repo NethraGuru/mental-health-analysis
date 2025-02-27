@@ -107,7 +107,6 @@ class MentalHealthAnalysisPipeline:
         return self
 
 def main():
-    # Example usage
     pipeline = MentalHealthAnalysisPipeline()
     
     # Load and configure data
